@@ -17,10 +17,6 @@
 
 <p>Steps that I believe might be most challenging at that point:</p>
     <uo>
-        <li> know when to commit to GitHub, that is to say, often and yet not to often</li>
+        <li> know when to commit to GitHub, that is to say, often and yet not too often</li>
         <li> write proper commit messages</li>
     </uo>
-
-<p> </p>
-
-<p>Start of project: 02/10/2024</p>
