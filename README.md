@@ -2,7 +2,7 @@
 
 <p>This is the first project of The Odin Project's foundation course.</p>
 <p>The goal is to create a basic website using the knowledge about html that I have acquired up to now.</p>
-<p>The website will present an index page, along with other pages presenting recipies.</p>
+<p>The website will present an index page, along with other pages presenting recipes.</p>
 
 <p>Knowledge used:</p>
     <uo>
