@@ -6,17 +6,21 @@
 
 <p>Knowledge used:</p>
     <uo>
-        <li>- boilerplate html: first, written entirely by myself, then using VS Code's shortcut.</li>
-        <li>- commands used to edit text in an html document</li>
-        <li>- commands used to create lists in an html document</li>
-        <li>- commands used to insert hyperlinks and images in an html document</li>
-        <li>- how to properly commit a project on GitHub</li>
+        <li> boilerplate html: first, written entirely by myself, then using VS Code's shortcut.</li>
+        <li> commands used to edit text in an html document</li>
+        <li> commands used to create lists in an html document</li>
+        <li> commands used to insert hyperlinks and images in an html document</li>
+        <li> how to properly commit a project on GitHub</li>
     </uo>
+
+<p> </p>
 
 <p>Steps that I believe might be most challenging at that point:</p>
     <uo>
-        <li>- know when to commit to GitHub, that is to say, often and yet not to often</li>
-        <li>- write proper commit messages</li>
+        <li> know when to commit to GitHub, that is to say, often and yet not to often</li>
+        <li> write proper commit messages</li>
+    </uo>
 
+<p> </p>
 
 <p>Start of project: 02/10/2024</p>
