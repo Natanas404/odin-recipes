@@ -1,0 +1,8 @@
+.heading {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.heading.smaller {
+    font-size: 35px;
+}
