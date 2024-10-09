@@ -12,6 +12,11 @@
     font-size: 35px;
 }
 
+.heading.bigger,
+.heading.smaller {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .chili {
     color: red;
 }
