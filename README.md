@@ -20,3 +20,13 @@
         <li> know when to commit to GitHub, that is to say, often and yet not too often</li>
         <li> write proper commit messages</li>
     </uo>
+
+<p> </p>
+
+<p>Edit: 09/10/24</p>
+<p>The second lesson in the CSS block requires to add what I have learnt in CSS in this project.</p>
+<p>I will add two css files:</p>
+    <ul>
+        <li>a 'style.css' to style the index.html</li>
+        <li>a 'pagestyle.css' to style the 3 pages with the recipes.</li>
+    </ul>
