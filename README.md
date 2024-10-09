@@ -1,6 +1,6 @@
 # odin-recipes
 
-<div style="color: #228b22"> <p>This is the first project of The Odin Project's foundation course.</p>
+<p>This is the first project of The Odin Project's foundation course.</p>
 <p>The goal is to create a basic website using the knowledge about html that I have acquired up to now.</p>
 <p>The website will present an index page, along with other pages presenting recipes.</p>
 
@@ -20,11 +20,9 @@
         <li> know when to commit to GitHub, that is to say, often and yet not too often</li>
         <li> write proper commit messages</li>
     </uo>
-</div>
 
 <p> </p>
 
-<div style= "color: #20b2aa">
 <p>Edit: 09/10/24</p>
 <p>The second lesson in the CSS block requires to add what I have learnt in CSS in this project.</p>
 <p>I will add two css files:</p>
@@ -32,4 +30,3 @@
         <li>a 'style.css' to style the index.html</li>
         <li>a 'pagestyle.css' to style the 3 pages with the recipes.</li>
     </ul>
-</div>
