@@ -3,9 +3,13 @@
 }
 
 .heading {
-    color: burlywood;
-    background-color: black;
+    width: 400px;
+    color: goldenrod;
+    background-color: wheat;
     text-align: center;
+    margin: 10px auto;
+    border: 2px groove black;
+    padding: 10px;
 }
 
 .chili {
