@@ -9,7 +9,7 @@
 }
 
 .heading {
-    width: 400px;
+    width: 300px;
     color: goldenrod;
     background-color: wheat;
     text-align: center;
@@ -18,12 +18,17 @@
     padding: 10px;
 }
 
+li {
+    display: inline-block;
+}
+
 .card {
-    width: 200px;
+    width: 400px;
     background-color: wheat;
+    text-align: center;
     margin: 10px auto;
     border: 1px outset black;
-    padding: 5px 35px 5px 5px;
+    padding: 5px 40px 5px 5px;
 }
 
 .chili {
