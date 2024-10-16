@@ -27,7 +27,10 @@
 }
 
 .chili {
-    background-color: red;
+    color: red;
+    margin: 2px auto;
+    border: 0.5px solid black;
+    padding: 5px 2px;
 }
 
 .gyoza {
