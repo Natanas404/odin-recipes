@@ -30,3 +30,6 @@
         <li>a 'style.css' to style the index.html</li>
         <li>a 'pagestyle.css' to style the 3 pages with the recipes.</li>
     </ul>
+
+<p>Edit: 16/10/24</p>
+<p>The last lesson in the CSS block requires to add my knowledge about the box model.</p>
