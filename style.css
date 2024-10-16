@@ -12,6 +12,14 @@
     padding: 10px;
 }
 
+.card {
+    width: 200px;
+    background-color: wheat;
+    margin: 10px auto;
+    border: 1px outset black;
+    padding: 5px;
+}
+
 .chili {
     background-color: red;
 }
