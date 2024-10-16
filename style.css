@@ -43,5 +43,9 @@
 }
 
 .cake {
-    background-color: orangered;
+    color: orangered;
+    margin: 2px auto;
+    border: 0.5px solid black;
+    padding: 5px 2px;
+    text-align: center;
 }
